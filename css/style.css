@@ -1,0 +1,31 @@
+body{
+    background-image: url(../image/background.jpg);
+    min-height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+input{
+    padding:15px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px white;
+    border: 0;
+    outline: none;
+}
+#submit{
+    cursor: pointer;
+}
+#ul{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#h1{
+    color: red;
+    font-size: 20px;
+}
